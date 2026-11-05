@@ -1,4 +1,4 @@
-# python-pandas-data-engineering
+# python-pandas-workflow
 A collection of hands-on Python data engineering projects covering Pandas, data cleaning, ETL pipelines, and data processing best practices.
 
 ## Pandas Data Cleaning Workflow
